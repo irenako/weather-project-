@@ -33,7 +33,7 @@ li {
 
 .city {
   font-size: 34px;
-  color: #0092ca;
+  color: #ec6e4c;
 }
 .logo {
   width: 100px;
@@ -77,7 +77,7 @@ a {
   background-color: none;
 }
 a:hover {
-  color: #0092ca;
+  color: #ec6e4c;
   text-decoration: none;
   background-color: none;
 }
