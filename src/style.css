@@ -55,6 +55,7 @@ li {
 }
 .weather-week {
   padding-top: 40px;
+  text-align: center;
 }
 .current-weather {
   padding-top: 30px;
